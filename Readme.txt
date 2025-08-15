@@ -29,3 +29,21 @@ staged changes and creaes a version outof it .
 if we did some dirt piece of code and now we no more want it instead of deleting it one by one , we can restore 
 it or you can say restore last version of of the file .
 
+11. `git restore --staged <file>` --> it remove file changes from the staging area to working area.
+
+12. `git diff commit1 commit2 ` --> gives the difference of all files changes between two commits .
+
+13.  ` git commit -m "<your message>" --> if we wnat to avoid opening a text editor like vim to add commit message we can 
+use this foolowing command .
+
+14. `git remote` -> list down all the remote connections names
+
+`Remote Connections` -> it helps you to link two git repository  for uploading and downloading changes 
+
+
+15 ` git remote add <name of your remote><link of remote> ` -> this command help us to add a new link to the remote 
+repo and give a name to it 
+
+16. 'git remote rm < name of remote > ` -> this command delets a remote connection .
+
+17. `git remote rename <oldname> <newname> ` -> this command renames the remot repo 
