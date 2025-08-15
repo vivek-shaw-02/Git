@@ -50,4 +50,4 @@ repo and give a name to it
 
 18. ` git add <file1> <file2> <file3>` -> this will add multiple file changes together in the staging area.
 
-19. ` git add.` -> it will add all the repos from working to staging area 
+19. ` git add.` -> it will add all the repos from working to staging area .
