@@ -47,3 +47,7 @@ repo and give a name to it
 16. 'git remote rm < name of remote > ` -> this command delets a remote connection .
 
 17. `git remote rename <oldname> <newname> ` -> this command renames the remot repo 
+
+18. ` git add <file1> <file2> <file3>` -> this will add multiple file changes together in the staging area.
+
+19. ` git add.` -> it will add all the repos from working to staging area 
